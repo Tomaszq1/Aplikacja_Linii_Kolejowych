@@ -1,0 +1,11 @@
+//
+// Created by A1398 on 03/05/2023.
+//
+#ifndef APLIKACJA_LINII_KOLEJOWYCHX_DEFINICJA_CLASS_3_H
+#define APLIKACJA_LINII_KOLEJOWYCHX_DEFINICJA_CLASS_3_H
+#include "Definicja_Class.h"
+#include "Defnicja_Class_2.h"
+
+
+
+#endif //APLIKACJA_LINII_KOLEJOWYCHX_DEFINICJA_CLASS_3_H
